@@ -1,5 +1,5 @@
 # MoodJourney
-**MoodJourney** is a mobile application designed to help the user track their emotional  well-being. Much like managing a blog or keeping a diary, users can log their moods and pen down their thoughts but in a much more accessible, efficient &amp; private way.
+**MoodJourney** is a mobile application designed to help the user track their emotional  well-being. Much like managing a blog or keeping a diary, users can log their moods and pen down their thoughts but in a much more accessible, efficient &amp; private way. It was developed in **Android Studio**.
 
 **Daily Mood Tracker**: Users can select from 3 options to define their general mood of the 
 day.  
