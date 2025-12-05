@@ -25,7 +25,7 @@ Click to watch! ->
 
 ## Storyboard with UI Design
 
-![Storyboard with UI Design](documentation/Storyboard_Final.png)
+![Storyboard with UI Design](documentation/Storyboard_Final.jpg)
 
 ## Functionalities of Each Activity
 
